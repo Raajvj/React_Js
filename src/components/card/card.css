@@ -1,0 +1,22 @@
+.card_div{
+    background-image: url(./congrats-card-bg.png);
+    width: 100%;
+    height: 50rem;
+    
+}
+.card_div1{
+    background-color: aqua;
+    width: 30%;
+    height: 500px;
+   margin: auto;
+    margin-top: 30px;
+}
+.profileimg{
+    margin-top: 40px;
+    
+}
+.watchimg{
+    width: 150px;
+    height: 150px;
+    
+}

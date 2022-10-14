@@ -1,0 +1,60 @@
+.fruit1_main{
+    background-color:yellow;
+    width: 700px;
+    height: 500px;
+    margin-left: 270px;
+    padding-top: 50px;
+}
+
+.fruit1_div{
+    background-color:white;
+    width: 500px;
+    height: 400px;
+    margin-left: 100px;
+  
+    
+}
+
+.fruitbox{
+    width: 200px;
+    height: 200px;
+    margin-top: 30px;
+}
+
+.mango_image{
+    width: 200px;
+    height: 200px;
+}
+
+.banana_image{
+    width: 200px;
+    height: 200px;
+    margin-left: 80px;
+}
+
+.btn_c{
+    background-color:skyblue;
+    border-radius: 10px;
+    margin-left: 50px;
+    margin-top: 30px;
+}
+
+.btn_b{
+    background-color:skyblue;
+    border-radius: 10px;
+    margin-left: 200px;
+
+}
+
+.heading{
+    font-size: 30px;
+    margin-left: 25px;
+padding-top: 50px;
+}
+
+
+
+
+
+
+

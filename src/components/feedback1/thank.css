@@ -1,0 +1,24 @@
+.feedback1_main1{
+    width: 600px;
+    height: 400px;
+    background-color: seashell;
+    margin-left: 350px;
+    margin-top: 50px;
+}
+
+.head_main1{
+    text-align: center;
+    font-size: 50px;
+  
+}
+
+.head_sub{
+    text-align: center;
+    font-size: 30px;
+}
+
+.icon4{
+    font-size: 100px;
+    margin-left: 250px;
+    margin-top: 60px;
+}

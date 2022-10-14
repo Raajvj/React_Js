@@ -1,0 +1,26 @@
+.feedback1_main{
+    width: 500px;
+    height: 400px;
+    background-color: lightsalmon;
+    margin-left: 350px;
+    margin-top: 50px;
+}
+
+.head_main{
+    font-size: 30px;
+    text-align: center;
+    padding-top: 50px;
+}
+
+.feedback1_div1{
+    width: 300px;
+    height: 150px;
+    background-color: white;
+    margin-left: 100px;
+    margin-top: 50px;
+}
+
+.icon1{
+    margin-top: 50px;
+    margin-left: 40px;
+}

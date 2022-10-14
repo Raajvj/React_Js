@@ -1,0 +1,23 @@
+.menu_div1 ul{
+    list-style:none;
+    display: flex;
+    background-color: olive;
+    padding: 20px;
+    margin-top: 20px;
+    
+}
+.menu_div1 ul li{
+    margin-left: 50px;
+    text-decoration: none;
+    color: black;
+}
+
+li:hover{
+    background-color: yellow;
+    border-radius: 5px;
+   box-shadow: 2px 3px 4px black;
+   /* height: 50px; */
+}
+a:hover{
+    text-decoration: none;  
+}

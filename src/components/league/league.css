@@ -1,0 +1,23 @@
+.league_div1{
+    background-color: black;
+    width: 50%;
+    height: 30rem;
+    margin: auto;
+    margin-top: 50px;
+    border-radius: 10px;
+    box-shadow: 2px 3px 4px red;
+}
+.league_div1 h1{
+   color: white;
+   padding-top: 150px;
+   margin-bottom: 60px;
+}
+.rcbimg{
+    width: 180px;
+    height: 180px;
+    
+}
+.cskimg{
+    width: 180px;
+    height: 180px;
+}

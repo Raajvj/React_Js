@@ -1,0 +1,52 @@
+$myMargin:0px;
+$myPadding:0PX;
+$myListStyle:none;
+$myDisplay:block;
+$myColor1:#FF335B;
+$myPadding1:20px;
+$myMarginTop:20px;
+$myMarginLeft:50px;
+$myTextDec:none;
+$myColor2:white;
+$myColor3:yellow;
+$myBorderRadius:5px;
+$myBoxShadow:2px 3px 4px black;
+$myCursor:grab;
+$myPaddingTop:20px;
+$myHeight:100px;
+
+.nav_div1{
+    margin: $myMargin;
+    padding: $myPadding;
+}
+
+.nav_div1 ul{
+    list-style:$myTextDec;
+    display: $myDisplay;
+    background-color: $myColor1;
+    // padding: $myPadding1;
+    // margin-top: $myMarginTop;
+    
+}
+.nav_div1 ul li{
+    // margin-left: $myMarginLeft;
+    text-decoration: $myTextDec;
+    color: $myColor2;
+    padding: $myPaddingTop;
+}
+
+li:hover{
+    background-color: $myColor3;
+    border-radius: $myBorderRadius;
+   box-shadow: $myBoxShadow;
+   cursor : $myCursor;
+
+}
+a:hover{
+    text-decoration: $myTextDec;
+    
+}
+.nav_div1_card{
+    height:$myHeight;
+    color: yellow;
+}
